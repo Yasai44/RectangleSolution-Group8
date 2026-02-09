@@ -1,0 +1,14 @@
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\bin\Debug\net8.0\RectangleApp.exe
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\bin\Debug\net8.0\RectangleApp.deps.json
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\bin\Debug\net8.0\RectangleApp.runtimeconfig.json
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\bin\Debug\net8.0\RectangleApp.dll
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\bin\Debug\net8.0\RectangleApp.pdb
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.AssemblyInfoInputs.cache
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.AssemblyInfo.cs
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.csproj.CoreCompileInputs.cache
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.dll
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\refint\RectangleApp.dll
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.pdb
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\RectangleApp.genruntimeconfig.cache
+C:\Users\saina\source\repos\RectangleSolution\RectangleApp\obj\Debug\net8.0\ref\RectangleApp.dll
