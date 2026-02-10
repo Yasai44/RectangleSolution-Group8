@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saina\\source\\repos\\RectangleSolution\\RectangleApp\\RectangleApp.csproj": {}
+    "C:\\Users\\harsi\\RectangleSolution-Group8\\RectangleApp\\RectangleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saina\\source\\repos\\RectangleSolution\\RectangleApp\\RectangleApp.csproj": {
+    "C:\\Users\\harsi\\RectangleSolution-Group8\\RectangleApp\\RectangleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saina\\source\\repos\\RectangleSolution\\RectangleApp\\RectangleApp.csproj",
+        "projectUniqueName": "C:\\Users\\harsi\\RectangleSolution-Group8\\RectangleApp\\RectangleApp.csproj",
         "projectName": "RectangleApp",
-        "projectPath": "C:\\Users\\saina\\source\\repos\\RectangleSolution\\RectangleApp\\RectangleApp.csproj",
-        "packagesPath": "C:\\Users\\saina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saina\\source\\repos\\RectangleSolution\\RectangleApp\\obj\\",
+        "projectPath": "C:\\Users\\harsi\\RectangleSolution-Group8\\RectangleApp\\RectangleApp.csproj",
+        "packagesPath": "C:\\Users\\harsi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\harsi\\RectangleSolution-Group8\\RectangleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\saina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\harsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
